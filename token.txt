@@ -1,0 +1,2 @@
+git config --global credential.helper cache
+# in áit pasfhocal a bheith le cur isteach i gcónaí
